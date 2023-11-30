@@ -1,16 +1,15 @@
 # goals_app
 
-A new Flutter project.
+Nutrition and Fitness App for Soccer Athletes
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+Goals App helps track
+1. Soccer training schedule
+2. Helps track Calories
+3. Helps track workouts
 
-A few resources to get you started if this is your first Flutter project:
+## App Design
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Designs of various screens in the Goals App
+[Goals App Design](https://github.com/aakashn06/goals_app/blob/main/Goals%20Mobile%20App%20Design.pdf)
